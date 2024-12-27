@@ -123,6 +123,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>desafio-itau</finalName>
 	</build>
 
 </project>
