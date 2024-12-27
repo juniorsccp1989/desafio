@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk-slim
+FROM openjdk:17-jdk-slim
 COPY target/desafio-itau.jar /app/desafio-itau.jar
 WORKDIR /app
 EXPOSE 8080
